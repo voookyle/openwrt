@@ -206,8 +206,7 @@ jobs:
           CONFIG_SAMBA4_SERVER_NETBIOS=y
           CONFIG_SAMBA4_SERVER_VFS=y
           CONFIG_SAMBA4_SERVER_WSDD2=y
-              # CONFIG_TARGET_ROOTFS_SQUASHFS is not set
-
+          # CONFIG_TARGET_ROOTFS_SQUASHFS is not set
           #
           # ========================固件定制部分结束========================
           #
